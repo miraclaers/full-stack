@@ -57,10 +57,6 @@ Options you can pass to the script:
 - `--quality`: JPEG quality level (defaults to `88`).
 - `--no-remove-pngs`: Preserve original PNG files after conversion.
 
-## Contributing
-
-Contributions are welcome! If you find a typo, have a suggestion, or want to improve a section, feel free to open an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
